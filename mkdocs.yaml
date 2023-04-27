@@ -1,0 +1,9 @@
+site_name: 'Document sample at personal account'
+
+nav:
+  - Home: README.md
+
+docs_dir: 'docs'
+
+plugins:
+  - techdocs-core
